@@ -1,5 +1,7 @@
 # EX No.3.2. CREATE 3D MODEL FROM ORTHOGRAPHIC PROJECTION
-## DATE:
+## DATE:02/11/2026
+Name:THANISHKA S
+Reference No: 26014076
 ## AIM:
 To create a 3D model from given orthographic projection.
 
