@@ -75,9 +75,11 @@ Step 4: Add the Top Center Hole
 ![image](https://user-images.githubusercontent.com/113594316/198823415-9d0a9454-b197-44bf-b90f-179c75602500.png)
 
 ## INPUT:
-<img width="1600" height="900" alt="WhatsApp Image 2026-11-17 at 9 27 03 PM" src="https://github.com/user-attachments/assets/760e7b23-4747-49a2-be1c-2e9aeff372eb" />
+<img width="1600" height="900" alt="WhatsApp Image 2026-11-17 at 9 26 38 PM (1)" src="https://github.com/user-attachments/assets/efcdaaa6-6732-4b11-9e0c-05444fc14b67" />
+
 ## OUTPUT:
-<img width="1600" height="900" alt="WhatsApp Image 2026-11-17 at 9 27 03 PM" src="https://github.com/user-attachments/assets/a60cf804-81ff-452b-9df6-989420352385" />
+<img width="1600" height="900" alt="WhatsApp Image 2026-11-17 at 9 26 37 PM" src="https://github.com/user-attachments/assets/a88a9e52-ecb1-4b75-b25d-782ac3f6a599" />
+
 
 
 ## RESULT:
