@@ -78,7 +78,8 @@ Step 4: Add the Top Center Hole
 <img width="947" height="552" alt="sf" src="https://github.com/user-attachments/assets/636054b5-9d38-49a9-acf7-33997a356983" />
 
 ## OUTPUT:
-<img width="993" height="703" alt="WhatsApp Image 2026-11-15 at 8 26 15 PM" src="https://github.com/user-attachments/assets/b9fcb346-814e-4eab-9c70-c40e570247e4" />
+<img width="1600" height="900" alt="WhatsApp Image 2026-11-17 at 9 27 03 PM" src="https://github.com/user-attachments/assets/608f7af0-7639-4004-afe7-e934a9e7a158" />
+
 
 
 ## RESULT:
